@@ -3,4 +3,4 @@ BOARD_UPLOAD_PROTOCOL := USBasp
 ARDUINOCONST := 154
 VENDOR := attiny
 CPPFLAGS += -D__AVR_ATtinyX4__
-include ~/Documents/src/arduino.mk
+include ./arduino.mk
