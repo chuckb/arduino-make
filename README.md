@@ -15,3 +15,5 @@ Features that I added:
 2) Added external programmer support.
 3) Added assembly file compilation capability.
 4) Attempted to maintain backward compatibility with 1.0.
+
+An example Makefile that I used to build a project is also included.
